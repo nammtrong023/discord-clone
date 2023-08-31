@@ -1,0 +1,14 @@
+'use client';
+import {io as ClientIO} from 'socket.io-client'
+
+type SocketContextType = {
+    
+}
+
+const SocketProvider = () => {
+
+
+    return <div></div>;
+};
+
+export default SocketProvider;
